@@ -11,3 +11,11 @@ Proyecto de software desarrollado para la empresa Havanna S.A., enfocado en la c
 El seguimiento de las Historias de Usuario y su evolución en los estados del tablero Kanban (*Por Hacer, En Progreso y Listo*) se gestiona de manera interactiva a través del siguiente enlace:
 * [https://github.com/users/GabyFelicioli/projects/1/views/1]
 
+## Declaración de Transparencia en el Uso de IA
+En la elaboración de este trabajo práctico utilicé la Inteligencia Artificial como una herramienta de apoyo y consulta para:
+    Ayudar a estructurar la arquitectura del proceso de negocio clave (Core Process) de gestión de inventarios adaptado a la operativa de Havanna S.A.
+	Definir lógicamente el uso de compuertas exclusivas basadas en datos para el manejo de excepciones por stock mínimo y disponibilidad logística.
+	Generar y diseñar la imagen del diagrama de flujo BPMN a partir de los datos y especificaciones provistas.
+	Asistir en la creación, configuración y estructuración del proyecto y tablero ágil de GitHub Projects para la gestión de las Historias de Usuario.
+
+
