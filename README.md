@@ -7,3 +7,7 @@ Proyecto de software desarrollado para la empresa Havanna S.A., enfocado en la c
 ## Integrantes del Grupo
 * Gabriel Felicioli
 
+## Tablero Ágil del Proyecto (Backlog)
+El seguimiento de las Historias de Usuario y su evolución en los estados del tablero Kanban (*Por Hacer, En Progreso y Listo*) se gestiona de manera interactiva a través del siguiente enlace:
+* [https://github.com/users/GabyFelicioli/projects/1/views/1]
+
