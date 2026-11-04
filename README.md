@@ -9,7 +9,7 @@ Proyecto de software desarrollado para la empresa Havanna S.A., enfocado en la c
 
 Enlace al Repositorio del Proyecto (GitHub):
 El código fuente, la documentación técnica y el historial de versiones se encuentran alojados en el siguiente repositorio público:
-[https://github.com/GabyFelicioli/ENTREGA-N.-4/tree/futura-documentacion]
+[https://github.com/GabyFelicioli/ENTREGA-N.-4/tree/main]
 
 ## Tablero Ágil del Proyecto (Backlog)
 El seguimiento de las Historias de Usuario y su evolución en los estados del tablero Kanban (*Por Hacer, En Progreso y Listo*) se gestiona de manera interactiva a través del siguiente enlace:
