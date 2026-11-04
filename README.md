@@ -22,4 +22,4 @@ En la elaboración de este trabajo práctico utilicé la Inteligencia Artificial
 	Generar y diseñar la imagen del diagrama de flujo BPMN a partir de los datos y especificaciones provistas.
 	Asistir en la creación, configuración y estructuración del proyecto y tablero ágil de GitHub Projects para la gestión de las Historias de Usuario.
 
-
+Corrección de Pull Request
